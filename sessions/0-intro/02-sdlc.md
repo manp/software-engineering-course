@@ -22,7 +22,7 @@ flowchart LR
         C --> D[پیاده‌سازی<br/>Implementation]
         D --> E[تست و استقرار<br/>Testing & Deployment]
         E --> F[نگهداری<br/>Maintenance]
-        F -.تکرار.-> A
+        F -.-> A
     end
 ```
 

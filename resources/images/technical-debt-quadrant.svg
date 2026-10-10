@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 700" font-family="Vazirmatn, Noto Naskh Arabic, Tahoma, sans-serif" dir="rtl">
+  <rect width="920" height="700" fill="#ffffff" rx="14"/>
+  <text x="460" y="42" text-anchor="middle" font-size="28" font-weight="bold" fill="#0f172a">چهارگانه بدهی فنی — مدل Martin Fowler</text>
+
+  <!-- پس‌زمینه چهار ربع -->
+  <rect x="470" y="90" width="410" height="265" rx="12" fill="#ecfdf5" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="470" y="370" width="410" height="265" rx="12" fill="#fffbeb" stroke="#fde68a" stroke-width="2"/>
+  <rect x="40" y="90" width="410" height="265" rx="12" fill="#fef2f2" stroke="#fecaca" stroke-width="2"/>
+  <rect x="40" y="370" width="410" height="265" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- خطوط محور -->
+  <line x1="460" y1="80" x2="460" y2="645" stroke="#475569" stroke-width="2"/>
+  <line x1="35" y1="363" x2="885" y2="363" stroke="#475569" stroke-width="2"/>
+
+  <!-- برچسب محورها -->
+  <text x="820" y="352" text-anchor="middle" font-size="16" font-weight="bold" fill="#334155">عاقلانه (Prudent)</text>
+  <text x="100" y="352" text-anchor="middle" font-size="16" font-weight="bold" fill="#334155">بی‌پروا (Reckless)</text>
+  <text x="440" y="76" text-anchor="middle" font-size="16" font-weight="bold" fill="#334155">عمدی (Deliberate)</text>
+  <text x="440" y="668" text-anchor="middle" font-size="16" font-weight="bold" fill="#334155">غیرعمدی (Inadvertent)</text>
+
+  <!-- ربع بالا-راست: عمدی + عاقلانه -->
+  <text x="675" y="145" text-anchor="middle" font-size="21" font-weight="bold" fill="#065f46">بدهی حساب‌شده</text>
+  <text x="675" y="172" text-anchor="middle" font-size="14" fill="#065f46">عمدی + سنجیده</text>
+  <text x="675" y="210" text-anchor="middle" font-size="15" fill="#1e293b">«باید سریع عرضه کنیم؛ عواقبش را</text>
+  <text x="675" y="235" text-anchor="middle" font-size="15" fill="#1e293b">بعداً مدیریت می‌کنیم» — در Backlog ثبت می‌شود</text>
+
+  <!-- ربع پایین-راست: غیرعمدی + عاقلانه -->
+  <text x="675" y="425" text-anchor="middle" font-size="21" font-weight="bold" fill="#854d0e">بدهی پنهان</text>
+  <text x="675" y="452" text-anchor="middle" font-size="14" fill="#854d0e">غیرعمدی + سنجیده</text>
+  <text x="675" y="490" text-anchor="middle" font-size="15" fill="#1e293b">«حالا می‌دانیم چطور باید می‌ساختیم»</text>
+  <text x="675" y="515" text-anchor="middle" font-size="15" fill="#1e293b">ناشی از ناآگاهی تیم از معماری درست</text>
+
+  <!-- ربع بالا-چپ: عمدی + بی‌پروا -->
+  <text x="245" y="145" text-anchor="middle" font-size="21" font-weight="bold" fill="#991b1b">بدهی بی‌پروایانه</text>
+  <text x="245" y="172" text-anchor="middle" font-size="14" fill="#991b1b">عمدی + بی‌پروا</text>
+  <text x="245" y="210" text-anchor="middle" font-size="15" fill="#1e293b">«وقت طراحی نداریم؛ فقط باید</text>
+  <text x="245" y="235" text-anchor="middle" font-size="15" fill="#1e293b">تحویل بدهیم» — هیچ ثبت و برنامه‌ای ندارد</text>
+
+  <!-- ربع پایین-چپ: غیرعمدی + بی‌پروا -->
+  <text x="245" y="425" text-anchor="middle" font-size="21" font-weight="bold" fill="#334155">بدهی ناآگاهانه</text>
+  <text x="245" y="452" text-anchor="middle" font-size="14" fill="#334155">غیرعمدی + بی‌پروا</text>
+  <text x="245" y="490" text-anchor="middle" font-size="15" fill="#1e293b">«لایه‌بندی چیست؟»</text>
+  <text x="245" y="515" text-anchor="middle" font-size="15" fill="#1e293b">ناشی از فقدان دانش و مهارت فنی</text>
+
+  <!-- نمونه‌ها -->
+  <circle cx="770" cy="300" r="10" fill="#10b981"/>
+  <text x="770" y="330" text-anchor="middle" font-size="13" fill="#065f46">حساب‌شده</text>
+  <circle cx="770" cy="600" r="10" fill="#eab308"/>
+  <text x="770" y="630" text-anchor="middle" font-size="13" fill="#854d0e">پنهان</text>
+  <circle cx="140" cy="300" r="10" fill="#ef4444"/>
+  <text x="140" y="330" text-anchor="middle" font-size="13" fill="#991b1b">بی‌خیالی</text>
+  <circle cx="140" cy="600" r="10" fill="#64748b"/>
+  <text x="140" y="630" text-anchor="middle" font-size="13" fill="#334155">ناآگاهی</text>
+</svg>
