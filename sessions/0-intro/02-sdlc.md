@@ -12,7 +12,7 @@
 - ریسک را مدیریت کنند.
 - کیفیت را از ابتدا بسازند، نه اینکه آخر کار «تست» کنند.
 
-> از مطالب ترم قبل (یادداشت جلسه اول «تجزیه و تحلیل و طراحی سیستم‌ها»، منبع Dennis et al. 2022) این چارچوب پایه را مرور می‌کنیم.
+> این چارچوب پایه از روی منابع اصلی درس (Dennis et al. 2022) مرور می‌شود.
 
 ```mermaid
 flowchart LR
@@ -56,7 +56,7 @@ flowchart LR
 
 ## ۴. چرخه حیات پروژه (Project Life Cycle) در برابر SDLC
 
-از یادداشت ترم قبل:
+به‌طور خلاصه:
 
 | مرحله چرخه حیات پروژه | فاز متناظر SDLC | فعالیت‌های اصلی |
 |---|---|---|
@@ -99,7 +99,6 @@ flowchart LR
 ---
 
 ## 📚 منابع
-- یادداشت ترم قبل: [SAD Lecture Note S1](https://github.com/manp/system-analysis-and-design/blob/master/notes/lectures/SAD%20Lecture%20Note%20S1.md)
 - Dennis, Wixom & Roth (2022). *Systems Analysis and Design*, 8th ed., Wiley.
 - PMI (2021). *PMBOK® Guide*, 7th ed.
 

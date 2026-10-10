@@ -158,7 +158,6 @@ flowchart LR
 ---
 
 ## 📚 منابع
-- یادداشت ترم قبل: [SAD Lecture Note S2](https://github.com/manp/system-analysis-and-design/blob/master/notes/lectures/SAD%20Lecture%20Note%20S2.md)
 - [SDLC Methodologies: From Waterfall to Agile — Virtasant](https://www.virtasant.com/blog/sdlc-methodologies)
 - [8 SDLC Methodologies — Relia Software](https://reliasoftware.com/blog/software-development-life-cycle-sdlc-methodologies)
 - [300+ Agile and Scrum Statistics — Parabol](https://www.parabol.co/resources/agile-statistics/)
