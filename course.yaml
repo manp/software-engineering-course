@@ -1,0 +1,12 @@
+# تنظیمات نمایش محتوای درس در ربات درستیار
+syllabus: syllabus.md
+sections:
+  - title: جلسه‌ها
+    path: sessions
+  - title: منابع
+    path: resources
+links:
+  - title: مخزن درس در GitHub
+    url: https://github.com/manp/software-engineering-course
+  - title: یادداشت‌های ترم قبل (SAD)
+    url: https://github.com/manp/system-analysis-and-design/tree/master/notes/lectures
