@@ -28,7 +28,7 @@
 
 - [راهنمای کامل پروژهٔ ترم](projects/README.md)
 - [فهرست موضوع‌های پیشنهادی (۴۰+ موضوع)](projects/topics.md)
-- [تمرین جاری — انتخاب موضوع و ساخت رپازیتوری](assignments/week1-topic-and-repo.md)
+- [تمرین جاری — برگهٔ درخواست مشتری](assignments/week2-client-request.md)
 
 ## 📚 جلسات
 

@@ -25,3 +25,4 @@
 ## 📄 قالب‌ها
 
 - [قالب README برای رپازیتوری پروژه](templates/README-template.md)
+- [قالب برگهٔ درخواست مشتری (تمرین هفتهٔ ۲)](templates/client-request-template.md) + [نمونهٔ پرشدهٔ فرضی](templates/example-company-meal.md)
