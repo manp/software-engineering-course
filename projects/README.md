@@ -25,4 +25,4 @@
 ## 📄 قالب‌ها
 
 - [قالب README برای رپازیتوری پروژه](templates/README-template.md)
-- [قالب برگهٔ درخواست مشتری (تمرین هفتهٔ ۲)](templates/client-request-template.md) + [نمونهٔ پرشدهٔ فرضی](templates/example-company-meal.md)
+- قالب‌های اسناد فاز Planning (تمرین هفتهٔ ۲): [برگهٔ درخواست مشتری](templates/client-request-template.md) ← [درخواست سیستم](templates/system-request-template.md) ← [امکان‌سنجی](templates/feasibility-template.md) ← [منشور پروژه](templates/project-charter-template.md) + [نمونهٔ پرشدهٔ فرضی همه](templates/example-planning-docs.md)
