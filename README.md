@@ -28,7 +28,8 @@
 
 - [راهنمای کامل پروژهٔ ترم](projects/README.md)
 - [فهرست موضوع‌های پیشنهادی (۴۰+ موضوع)](projects/topics.md)
-- [تمرین جاری — برگهٔ درخواست مشتری](assignments/week2-client-request.md)
+- [تمرین جاری — تکمیل اسناد فاز Planning](assignments/week3-planning-artifacts.md)
+- [راهنمای کار با VS Code و Git](resources/vscode-git-guide.md) — برای دانشجویانی که لپ‌تاپ ندارند یا با گیت آشنا نیستند
 
 ## 📚 جلسات
 
