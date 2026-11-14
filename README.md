@@ -33,4 +33,7 @@
 
 ## 📚 جلسات
 
-- [جلسه ۰ — مفاهیم پایه](sessions/0-intro/index.md)
+| جلسه | موضوع | فایل |
+|---|---|---|
+| ۰ | مفاهیم پایه — بدهی فنی، SDLC، متدولوژی‌ها | [index](sessions/0-intro/index.md) |
+| ۱ | اصول اولیه، مدل‌سازی و نمودار Use Case | [مشاهده](sessions/1-analysis/01-principles-modeling-use-case.md) |
